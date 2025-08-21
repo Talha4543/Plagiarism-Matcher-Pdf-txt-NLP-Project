@@ -17,7 +17,7 @@ This repo contains a basic example on how to do that.
 To get started with the code on this repo, you need to either *clone* or *download* this repo into your machine as shown below;
 
 ```bash
-git clone https://github.com/Kalebu/Plagiarism-checker-Python
+https://github.com/Talha4543/Plagiarism-Matcher-Pdf-txt-NLP-Project.git
 ```
 
 ## Dependencies
@@ -26,19 +26,6 @@ Before you begin playing with the source code, you might need to install depende
 
 ```bash
 pip3 install -r requirements.txt
-```
-
-## Running the App
-
-To run this code you need to have your textual documents in your project directory with the **.txt** extension. When you run the script, it will automatically load all the documents with that extension and then compute the similarities between them as shown below;
-
-```bash
-$-> cd Plagiarism-checker-Python
-$ Plagiarism-checker-Python-> python3 app.py
-('john.txt', 'juma.txt', 0.5465972177348937)
-('fatma.txt', 'john.txt', 0.14806887549598566)
-('fatma.txt', 'juma.txt', 0.18643448370323362)
-
 ```
 
 ## A Python Library?
