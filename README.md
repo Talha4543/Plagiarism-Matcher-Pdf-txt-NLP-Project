@@ -1,5 +1,5 @@
 # Plagiarism-checker-Python
-
+![image alt](https://github.com/Talha4543/Plagiarism-Matcher-Pdf-txt-NLP-Project/blob/573ac6beab252821ec97424f91046c92688578d0/1.PNG)
 This repo consists of a source code of a Python script which detects plagiarism in a textual document using **cosine similarity**.
 
 
