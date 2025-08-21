@@ -34,7 +34,7 @@ Would you like to use a Python library instead to help you compare strings and d
 
 ## Explore it 
 
-Explore it and twist it to your own use case. In case of any questions feel free to reach me directly at *isaackeinstein@gmail.com*.
+Explore it and twist it to your own use case. In case of any questions feel free to reach me directly at *ta0696496@gmail.com*.
 
 ## Issues
 
@@ -45,10 +45,3 @@ you can raise an issue.
 
 If you have something to add, I welcome pull requests on improvement; your helpful contribution will be merged as soon as possible.
 
-## Give it a Star
-
-If you find this repo useful, give it a star so that many people can get to know it.
-
-## Credits
-
-All the credit goes to [kalebu](https://github.com/kalebu).
